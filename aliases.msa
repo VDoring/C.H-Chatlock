@@ -1,0 +1,17 @@
+﻿/chatlock [$1] =>>>
+
+	if($1 == '') {
+	msg(colorize(&5'(Yes/No) 입력'))
+}
+	
+	else if($1 == 'yes') {
+		store_value('chat', true)
+		msg(colorize(&e'현재 채팅할 수 없습니다!'))
+}
+	
+	else if($1 == 'no') {
+		clear_value('chat')
+		msg(colorize(&e'이제 채팅할 수 있습니다.'))
+}
+
+<<<
