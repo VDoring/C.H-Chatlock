@@ -8,15 +8,13 @@
 
 <pre>
 <code>/chatlock yes
-</pre>
-</code>
+</pre></code>
 
 #### Can User Chat.
 
 <pre>
 <code>/chatlock no
-</pre>
-</code>
+</pre></code>
 
 #### Can't User Chat.
 ----------------------------------------------------
