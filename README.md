@@ -39,15 +39,13 @@ No chat-related code will work. Can chat
 
 <pre>
 <code>/chatlock yes
-</pre>
-</code>
+</pre></code>
 
 #### 입력시 채팅할 수 있습니다.
 
 <pre>
 <code>/chatlock no
-</pre>
-</code>
+</pre></code>
 
 #### 입력시 채팅할 수 없습니다.
 ----------------------------------------------------
